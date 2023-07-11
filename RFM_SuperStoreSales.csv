@@ -1,0 +1,796 @@
+﻿Customer Segment,M_quantitle,RFM Score,F_quantitle,R_quantitle,last_to_present,customer_name,Total Paid,InvoiceNo Count
+Highest Paying Customer,1,131,3,1,22,Emily Grady,23114,63
+Normal,3,123,2,1,7,Pauline Webber,13888,69
+Newest Customer,4,144,4,1,7,Shaun Weien,8247,42
+Highest Paying Customer,1,141,4,1,30,Hunter Lopez,30246,53
+Normal,3,123,2,1,40,Ben Wallace,14965,68
+Newest Customer,4,144,4,1,35,Tracy Zic,10860,48
+Normal,2,132,3,1,13,Dianna Vittorini,16951,63
+Normal,2,132,3,1,54,Craig Carroll,16815,55
+Loyal Customer,4,114,1,1,20,Chris Cortes,11483,87
+Normal,4,134,3,1,35,Brendan Sweed,12179,58
+Normal,3,133,3,1,5,Michael Grace,14532,61
+Highest Paying Customer,1,121,2,1,21,Steven Roelle,19374,65
+Newest Customer,3,143,4,1,1,Christopher Schild,12516,53
+Highest Paying Customer,1,121,2,1,2,Carlos Daly,20117,70
+Normal,3,123,2,1,1,Jay Kimmel,13401,67
+Newest Customer,4,144,4,1,12,Justin MacKendrick,9027,53
+Loyal Customer,2,112,1,1,8,Jenna Caffey,16161,75
+Loyal Customer,2,112,1,1,47,Anna Gayman,15392,77
+Normal,4,134,3,1,33,Ann Steele,11818,55
+Normal,4,124,2,1,37,Daniel Lacy,12201,72
+Best Customer,1,111,1,1,27,Tamara Chand,37453,88
+Loyal Customer,2,112,1,1,30,Shahid Collister,17678,85
+Normal,4,134,3,1,43,Xylona Preis,12202,61
+Normal,2,132,3,1,6,Thea Hendricks,15541,59
+Loyal Customer,2,112,1,1,33,Brian Moss,17459,78
+Normal,4,124,2,1,6,Harold Engle,10993,71
+Best Customer,1,111,1,1,1,Tim Brockman,19103,89
+Normal,2,122,2,1,39,Benjamin Patterson,18714,67
+Newest Customer,3,143,4,1,11,Chad Sievert,12348,48
+Newest Customer,4,144,4,1,34,Lynn Smith,11713,54
+Newest Customer,4,144,4,1,42,Chris McAfee,11621,44
+Loyal Customer,2,112,1,1,28,Anna Andreadi,17312,91
+Newest Customer,4,144,4,1,41,Lisa Hazard,9164,43
+Best Customer,1,111,1,1,12,Harry Greene,24217,101
+Newest Customer,4,144,4,1,13,Arianne Irving,9281,50
+Normal,4,134,3,1,12,Muhammed MacIntyre,10720,55
+Normal,4,134,3,1,5,Barry Pond,10389,57
+Normal,2,132,3,1,37,Anne Pryor,16360,63
+Newest Customer,3,143,4,1,2,Sarah Bern,14603,50
+Newest Customer,4,144,4,1,22,Ryan Crowe,9539,50
+Normal,3,123,2,1,28,Ralph Kennedy,13998,64
+Newest Customer,2,142,4,1,16,Roger Barcio,15304,54
+Best Customer,1,111,1,1,15,Resi Pölking,22053,91
+Normal,4,134,3,1,0,Tamara Dahlen,7704,58
+Highest Paying Customer,1,121,2,1,41,Evan Minnotte,19672,66
+Normal,2,122,2,1,22,Anthony Rawles,17339,72
+Normal,2,122,2,1,42,Lela Donovan,16181,71
+Normal,2,132,3,1,24,Rick Hansen,16356,56
+Newest Customer,3,143,4,1,28,Claire Gute,14662,52
+Best Customer,1,111,1,1,0,John Grady,22219,95
+Newest Customer,3,143,4,1,5,Jack O'Briant,13348,51
+Normal,2,122,2,1,1,Michael Chen,15939,65
+Highest Paying Customer,1,121,2,1,8,Barry Franz,24082,69
+Newest Customer,4,144,4,1,6,Andy Reiter,8545,35
+Highest Paying Customer,1,121,2,1,18,Nathan Gelder,22721,65
+Best Customer,1,111,1,1,18,Delfina Latchford,20252,76
+Normal,3,123,2,1,13,Skye Norling,14225,67
+Best Customer,1,111,1,1,5,Matthew Clasen,21805,80
+Normal,3,133,3,1,22,Luke Foster,13422,61
+Best Customer,1,111,1,1,47,Odella Nelson,19273,74
+Newest Customer,4,144,4,1,28,Troy Blackwell,9187,46
+Newest Customer,4,144,4,1,12,Peter McVee,11288,46
+Newest Customer,3,143,4,1,40,Candace McMahon,14798,46
+Normal,2,132,3,1,67,Evan Henry,16377,61
+Normal,3,133,3,1,1,Ryan Akin,13742,55
+Loyal Customer,2,112,1,1,20,William Brown,16886,84
+Best Customer,1,111,1,1,18,Alejandro Savely,21124,77
+Normal,3,133,3,1,15,MaryBeth Skach,14790,63
+Newest Customer,4,144,4,1,36,Carlos Meador,10148,42
+Normal,2,122,2,1,21,Scott Williamson,17044,68
+Normal,3,123,2,1,26,Doug O'Connell,13772,68
+Best Customer,1,111,1,1,16,Kelly Andreada,18876,86
+Newest Customer,4,144,4,1,0,Peter Bühler,9897,47
+Highest Paying Customer,1,131,3,1,33,Caroline Jumper,19582,58
+Normal,2,132,3,1,33,Bradley Talbott,15343,55
+Best Customer,1,111,1,1,2,Jonathan Doherty,19481,86
+Normal,4,124,2,1,14,Ross DeVincentis,10302,70
+Newest Customer,4,144,4,1,47,Dennis Bolton,10610,52
+Newest Customer,4,144,4,1,58,Sandra Flanagan,11259,51
+Normal,2,122,2,1,6,Hunter Glantz,16214,67
+Normal,4,134,3,1,6,Allen Armold,6537,55
+Normal,3,123,2,1,55,Elizabeth Moffitt,14508,64
+Best Customer,1,111,1,1,2,Edward Hooks,21272,84
+Best Customer,1,111,1,1,55,Dianna Wilson,23456,88
+Newest Customer,4,144,4,1,0,Kalyca Meade,8643,43
+Normal,2,122,2,1,5,Bill Donatelli,15276,69
+Normal,2,132,3,1,6,Meg O'Connel,18003,58
+Normal,2,132,3,1,7,Ritsa Hightower,17695,60
+Normal,3,133,3,1,0,Jill Matthias,14181,58
+Newest Customer,4,144,4,1,51,Bobby Trafton,10400,53
+Newest Customer,3,143,4,1,8,Sharelle Roach,13005,52
+Normal,2,132,3,1,75,Victoria Pisteka,18554,60
+Loyal Customer,2,112,1,1,40,Stewart Carmichael,16529,83
+Normal,4,134,3,1,8,Ken Heidel,9021,57
+Best Customer,1,111,1,1,48,Joe Kamberova,26689,91
+Normal,4,134,3,1,84,Trudy Schmidt,9980,56
+Loyal Customer,2,112,1,1,22,Frank Olsen,17775,85
+Normal,2,122,2,1,28,Kunst Miller,16968,69
+Newest Customer,3,143,4,1,20,Justin Ellison,12910,53
+Newest Customer,4,144,4,1,15,John Dryer,11591,48
+Newest Customer,4,144,4,1,9,Brooke Gillingham,11213,49
+Newest Customer,4,144,4,1,20,Stephanie Phelps,11151,46
+Highest Paying Customer,1,121,2,1,6,Chuck Sachs,22759,70
+Normal,3,133,3,1,64,Tamara Manning,14461,55
+Normal,2,122,2,1,0,Rick Duston,17546,66
+Loyal Customer,2,112,1,1,14,Darren Powers,15980,82
+Best Customer,1,111,1,1,0,Patrick O'Donnell,24025,78
+Best Customer,1,111,1,1,9,Sanjit Engle,30143,82
+Newest Customer,3,143,4,1,19,Matthew Grinstein,13017,51
+Normal,4,124,2,1,2,Bart Pistole,10087,70
+Loyal Customer,2,112,1,1,28,Sarah Jordon,16070,79
+Newest Customer,4,144,4,1,65,Julia Dunbar,11228,48
+Best Customer,1,111,1,1,15,Saphhira Shifley,23632,84
+Best Customer,1,111,1,1,53,Art Foster,20064,76
+Normal,2,132,3,1,5,Jack Garza,15708,62
+Normal,4,134,3,1,22,Laurel Workman,10873,63
+Normal,2,122,2,1,2,Darrin Martin,17733,66
+Highest Paying Customer,1,131,3,1,12,Aaron Hawkins,20759,56
+Normal,3,133,3,1,22,George Ashbrook,13806,58
+Normal,3,133,3,1,2,Erica Hernandez,13008,57
+Normal,3,133,3,1,30,Stefanie Holloman,14205,55
+Highest Paying Customer,1,121,2,1,36,Karen Daniels,24018,64
+Best Customer,1,111,1,1,5,Ralph Arnett,23044,88
+Loyal Customer,2,112,1,1,15,Emily Ducich,18549,76
+Loyal Customer,2,112,1,1,6,Michael Stewart,17869,77
+Normal,3,123,2,1,9,Bradley Nguyen,12878,65
+Normal,4,124,2,1,22,Kelly Williams,11833,71
+Newest Customer,3,143,4,1,6,Nick Crebassa,12302,50
+Best Customer,1,111,1,1,11,Joseph Holt,20939,85
+Highest Paying Customer,1,131,3,1,2,Denise Monton,22051,59
+Normal,3,133,3,1,27,Doug Bickford,12855,58
+Newest Customer,3,143,4,1,22,Eva Jacobs,14957,49
+Highest Paying Customer,1,131,3,1,1,Julia West,20598,61
+Newest Customer,4,144,4,1,7,Jocasta Rupert,11242,36
+Normal,2,122,2,1,75,Logan Haushalter,17288,72
+Newest Customer,4,144,4,1,14,Andy Yotov,8542,50
+Normal,3,123,2,1,14,Tracy Poddar,13289,68
+Normal,3,123,2,1,1,Tony Chapman,12633,67
+Normal,3,123,2,1,57,Dan Lawera,12690,68
+Newest Customer,3,143,4,1,42,Frank Carlisle,12410,51
+Normal,2,132,3,1,77,Jason Klamczynski,17200,62
+Normal,3,123,2,1,1,Naresj Patel,13118,65
+Best Customer,1,111,1,1,15,Steven Ward,25669,106
+Loyal Customer,2,112,1,1,1,Ivan Gibson,16151,77
+Normal,4,134,3,1,1,Ken Brennan,11465,56
+Best Customer,1,111,1,1,12,Russell Applegate,21398,76
+Normal,2,132,3,1,13,Carl Ludwig,18180,60
+Newest Customer,4,144,4,1,57,Patricia Hirasaki,11182,41
+Newest Customer,3,143,4,1,19,Neoma Murray,13872,54
+Normal,2,132,3,1,49,Meg Tillman,15346,59
+Normal,3,133,3,1,9,Joni Blumstein,13339,59
+Normal,4,134,3,1,6,David Wiener,10930,56
+Normal,4,134,3,1,0,Tracy Collins,11099,55
+Loyal Customer,3,113,1,1,7,Rachel Payne,14998,74
+Normal,3,123,2,1,2,Phillip Flathmann,13392,68
+Normal,2,122,2,1,13,Logan Currie,16082,71
+Loyal Customer,3,113,1,1,64,Matt Abelman,12447,82
+Normal,2,122,2,1,8,Muhammed Lee,15851,71
+Normal,3,123,2,1,54,Mark Hamilton,14724,64
+Newest Customer,3,143,4,1,15,Paul Lucas,15015,47
+Newest Customer,4,144,4,1,1,Fred McMath,7441,46
+Normal,2,122,2,1,37,Marc Harrigan,15401,64
+Best Customer,1,111,1,1,46,Keith Dawkins,26451,78
+Normal,4,134,3,1,44,Karen Carlisle,10416,63
+Normal,3,133,3,1,28,Ricardo Emerson,14039,59
+Loyal Customer,4,114,1,1,14,Herbert Flentye,11813,77
+Normal,3,123,2,1,0,Erica Smith,14719,67
+Normal,2,132,3,1,0,Marina Lichtenstein,15555,57
+Normal,3,133,3,1,54,Hilary Holden,15229,57
+Normal,2,122,2,1,7,Steven Cartwright,16918,73
+Newest Customer,4,144,4,1,12,Andy Gerbode,11339,44
+Loyal Customer,2,112,1,1,16,Katharine Harms,18414,74
+Normal,4,134,3,1,22,Barbara Fisher,9838,62
+Best Customer,1,111,1,1,25,Anne McFarland,25522,79
+Best Customer,1,111,1,1,9,Steve Chapman,23401,74
+Normal,2,122,2,1,14,Andrew Roberts,16914,70
+Loyal Customer,2,112,1,1,12,Denise Leinenbach,17936,75
+Highest Paying Customer,1,121,2,1,45,Dana Kaydos,19638,70
+Normal,3,133,3,1,12,Don Weiss,14384,62
+Loyal Customer,2,112,1,1,49,Alan Haines,15281,77
+Newest Customer,2,142,4,1,53,Elpida Rittenbach,17131,53
+Normal,4,134,3,1,41,Mick Crebagga,12014,62
+Highest Paying Customer,1,121,2,1,85,Nick Zandusky,20271,66
+Normal,3,123,2,1,26,Ed Ludwig,14209,71
+Loyal Customer,2,112,1,1,27,Michael Paige,17796,94
+Highest Paying Customer,1,121,2,1,0,Bill Shonely,23511,68
+Loyal Customer,4,114,1,1,4,Lycoris Saunders,11739,79
+Newest Customer,2,142,4,1,8,Chad McGuire,16566,43
+Normal,3,133,3,1,15,Barry Französisch,13206,62
+Normal,3,133,3,1,13,Dianna Arnett,15248,60
+Highest Paying Customer,1,131,3,1,44,Benjamin Venier,21366,61
+Newest Customer,3,143,4,1,12,Doug Jacobs,13852,54
+Normal,3,123,2,1,12,Alyssa Tate,14945,65
+Best Customer,1,111,1,1,1,James Galang,21554,83
+Best Customer,1,111,1,1,3,Zuschuss Carroll,28485,85
+Normal,2,132,3,1,16,Erin Mull,15321,62
+Highest Paying Customer,1,131,3,1,1,Denny Joy,22561,63
+Normal,2,122,2,1,15,Adam Shillingsburg,15445,71
+Normal,2,122,2,1,48,Ed Braxton,15525,65
+Normal,2,132,3,1,28,Ashley Jarboe,15949,56
+Loyal Customer,2,112,1,1,0,Erica Bern,16119,77
+Normal,3,133,3,1,75,Ken Dana,12553,56
+Newest Customer,4,144,4,1,33,Liz Willingham,8045,41
+Loyal Customer,2,112,1,1,43,Kean Takahito,17257,82
+Normal,4,134,3,1,16,Michelle Arnett,11933,59
+Best Customer,1,111,1,1,25,Sally Hughsby,18951,77
+Newest Customer,4,144,4,1,2,Anna Chung,8932,43
+Normal,2,122,2,1,6,Janet Martin,18017,67
+Loyal Customer,2,112,1,1,15,Alice McCarthy,18765,77
+Best Customer,1,111,1,1,16,Cindy Chapman,20866,74
+Normal,4,134,3,1,4,Karen Bern,11846,55
+Highest Paying Customer,1,121,2,1,2,Jennifer Ferguson,22947,66
+Newest Customer,4,144,4,1,40,Liz Pelletier,9465,54
+Best Customer,1,111,1,1,43,Corey Roper,22354,77
+Normal,2,122,2,1,2,Daniel Byrd,15392,65
+Newest Customer,3,143,4,1,0,Jim Kriz,13071,43
+Loyal Customer,2,112,1,1,6,Roy Französisch,15652,78
+Normal,3,133,3,1,26,Benjamin Farhat,13370,62
+Best Customer,1,111,1,1,0,Muhammed Yedwab,29644,108
+Loyal Customer,2,112,1,1,6,Neola Schneider,15801,75
+Normal,4,244,4,2,110,Vivek Gonzalez,10296,50
+Newest Customer,2,142,4,1,21,Maria Zettner,17960,53
+Normal,3,133,3,1,25,Bart Folk,13942,55
+Normal,2,122,2,1,40,Jim Sink,16281,69
+Normal,4,244,4,2,112,Allen Goldenen,8928,53
+Newest Customer,2,142,4,1,2,Alex Avila,15993,50
+Newest Customer,4,144,4,1,7,Michelle Lonsdale,10367,47
+Normal,2,122,2,1,39,Thomas Boland,17427,69
+Newest Customer,4,144,4,1,21,Angele Hood,11357,49
+Highest Paying Customer,1,131,3,1,4,Yoseph Carroll,20165,56
+Loyal Customer,2,112,1,1,2,Frank Merwin,16388,77
+Best Customer,1,111,1,1,7,Gary Zandusky,24700,78
+Best Customer,1,111,1,1,12,Tonja Turnell,20085,84
+Best Customer,1,111,1,1,2,Theone Pippenger,23965,88
+Best Customer,1,111,1,1,22,Eugene Hildebrand,22424,86
+Loyal Customer,3,113,1,1,4,Chloris Kastensmidt,14572,96
+Normal,2,132,3,1,12,Scot Wooten,15479,56
+Normal,4,134,3,1,33,George Bell,12183,56
+Newest Customer,3,143,4,1,19,Ralph Ritter,13584,54
+Newest Customer,2,142,4,1,7,Liz MacKendrick,15531,50
+Normal,3,123,2,1,48,Darrin Sayre,13283,68
+Normal,3,133,3,1,2,Annie Thurman,13385,55
+Best Customer,1,111,1,1,15,Randy Bradley,22898,83
+Best Customer,1,111,1,1,5,Art Ferguson,28183,98
+Normal,2,122,2,1,8,Tiffany House,16804,67
+Best Customer,1,111,1,1,0,Rick Bensley,20854,79
+Normal,2,122,2,1,93,Ken Black,16602,66
+Highest Paying Customer,1,121,2,1,16,Lena Creighton,18889,69
+Newest Customer,4,144,4,1,3,Sandra Glassco,11853,50
+Loyal Customer,3,113,1,1,0,Scott Cohen,12537,74
+Highest Paying Customer,1,121,2,1,74,Sarah Brown,22300,71
+Normal,3,133,3,1,6,Neil Französisch,12649,62
+Best Customer,1,111,1,1,27,Adrian Barton,25125,77
+Normal,2,132,3,1,20,Noah Childs,17346,59
+Normal,3,133,3,1,9,Deborah Brumfield,12578,58
+Loyal Customer,3,113,1,1,21,Michael Kennedy,14447,74
+Normal,2,122,2,1,26,Maribeth Dona,17829,70
+Normal,2,122,2,1,20,Eugene Barchas,16085,64
+Normal,4,134,3,1,14,Laurel Elliston,11477,61
+Best Customer,1,111,1,1,16,Aaron Bergman,24646,89
+Highest Paying Customer,1,121,2,1,56,Jason Fortune-,22817,73
+Newest Customer,4,144,4,1,49,Ed Jacobs,10699,45
+Normal,2,122,2,1,1,Jim Karlsson,17121,69
+Normal,4,124,2,1,42,Joy Daniels,11346,67
+Normal,3,133,3,1,1,Roland Fjeld,13090,59
+Normal,4,124,2,1,48,Nat Gilpin,12015,66
+Newest Customer,4,144,4,1,8,Vivian Mathis,3891,36
+Normal,4,134,3,1,1,Dean Katz,10652,56
+Normal,2,132,3,1,32,Karen Ferguson,18267,62
+Newest Customer,3,143,4,1,2,Pete Takahito,13054,51
+Best Customer,1,111,1,1,30,Ross Baird,19314,77
+Normal,2,132,3,1,28,Brenda Bowman,16007,63
+Normal,4,134,3,1,20,Lindsay Shagiari,9366,59
+Normal,2,132,3,1,26,Katrina Willman,15747,58
+Loyal Customer,3,113,1,1,36,Anthony Johnson,12284,77
+Newest Customer,4,144,4,1,25,Nancy Lomonaco,10840,43
+Newest Customer,4,144,4,1,15,Emily Burns,7037,35
+Normal,3,123,2,1,15,Robert Waldorf,12596,64
+Normal,2,122,2,1,29,Pamela Stobb,17635,66
+Loyal Customer,3,113,1,1,29,Becky Castell,15186,87
+Normal,2,122,2,1,15,Richard Eichhorn,16340,67
+Loyal Customer,2,112,1,1,8,Toby Swindell,18632,76
+Best Customer,1,111,1,1,18,Todd Sumrall,27775,75
+Normal,3,133,3,1,32,Becky Pak,14811,58
+Highest Paying Customer,1,131,3,1,2,Ellis Ballard,21986,57
+Best Customer,1,111,1,1,12,Jane Waco,30288,75
+Normal,3,133,3,1,9,Larry Blacks,14583,63
+Normal,4,124,2,1,2,Guy Armstrong,10285,64
+Loyal Customer,2,112,1,1,13,Sam Zeldin,16361,77
+Newest Customer,4,144,4,1,2,Pamela Coakley,11940,48
+Loyal Customer,2,112,1,1,35,Ted Butterfield,16030,76
+Normal,4,134,3,1,28,Anthony Garverick,11687,58
+Newest Customer,4,144,4,1,16,Sibella Parks,7221,36
+Best Customer,1,111,1,1,24,Eugene Moren,23411,94
+Best Customer,1,111,1,1,54,Bart Watters,32315,96
+Churn Customer,4,444,4,4,428,Nicole Brennan,5935,31
+Highest Paying Customer,1,121,2,1,0,Justin Deggeller,23618,71
+Best Customer,1,111,1,1,1,Fred Hopkins,30404,82
+Newest Customer,4,144,4,1,21,Bill Overfelt,8093,47
+Normal,4,134,3,1,29,Maurice Satty,10031,61
+Normal,3,133,3,1,6,Linda Southworth,13145,63
+Normal,3,123,2,1,35,Bryan Davis,13571,64
+Normal,3,123,2,1,25,Suzanne McNair,12888,64
+Normal,4,124,2,1,8,Sam Craven,11056,69
+Normal,2,132,3,1,13,Helen Abelman,16930,62
+Newest Customer,3,143,4,1,21,Paul MacIntyre,14346,48
+Highest Paying Customer,1,121,2,1,21,Joy Smith,20793,70
+Normal,3,123,2,1,26,Berenike Kampe,13586,64
+Normal,2,122,2,1,0,Susan Vittorini,15689,67
+Newest Customer,4,144,4,1,39,Nathan Cano,10759,49
+Newest Customer,3,143,4,1,48,Tom Prescott,12874,50
+Highest Paying Customer,1,131,3,1,8,Stuart Van,22308,62
+Normal,2,132,3,1,6,Larry Tron,18619,56
+Loyal Customer,2,112,1,1,32,Ruben Dartt,18320,86
+Normal,3,123,2,1,33,Ricardo Sperren,14432,68
+Best Customer,1,111,1,1,2,Kristen Hastings,19856,88
+Best Customer,1,111,1,1,36,Maureen Gastineau,20363,83
+Normal,3,123,2,1,4,Corey-Lock,13049,68
+Normal,3,133,3,1,20,Rick Huthwaite,13438,58
+Best Customer,1,111,1,1,14,Paul Prost,22247,79
+Normal,3,123,2,1,7,Dean Braden,14132,73
+Normal,4,244,4,2,107,Fred Chung,9323,51
+Normal,2,132,3,1,14,Giulietta Weimer,18071,57
+Loyal Customer,2,112,1,1,0,Joseph Airdo,18169,76
+Normal,3,133,3,1,8,Carl Weiss,14357,55
+Normal,4,124,2,1,4,Stephanie Ulpright,10779,72
+Newest Customer,3,143,4,1,58,Eleni McCrary,14584,54
+Newest Customer,3,143,4,1,26,Christy Brittain,13938,49
+Newest Customer,4,144,4,1,5,Dorothy Badders,10384,49
+Normal,3,123,2,1,15,Michelle Moray,13089,66
+Highest Paying Customer,1,141,4,1,9,Grant Thornton,20226,48
+Loyal Customer,3,113,1,1,15,Kelly Lampkin,14248,86
+Newest Customer,4,144,4,1,28,Bill Tyler,11798,50
+Newest Customer,3,143,4,1,1,John Castell,12298,53
+Highest Paying Customer,1,121,2,1,21,John Lee,25979,72
+Newest Customer,4,144,4,1,21,Adrian Hane,11406,54
+Normal,3,133,3,1,82,Charles Crestani,13350,59
+Normal,2,122,2,1,10,Sue Ann Reed,16494,64
+Normal,4,124,2,1,41,Dorothy Dickinson,11071,66
+Loyal Customer,3,113,1,1,32,Sanjit Jacobs,13521,79
+Normal,4,124,2,1,8,Mark Haberlin,11304,73
+Normal,2,122,2,1,29,Philisse Overcash,17984,73
+Loyal Customer,2,112,1,1,48,Andrew Gjertsen,16381,78
+Best Customer,1,111,1,1,5,Trudy Glocke,18883,75
+Normal,2,122,2,1,19,Tom Stivers,15345,69
+Normal,4,134,3,1,41,Thais Sissman,6787,60
+Normal,2,132,3,1,29,Sean O'Donnell,16366,60
+Newest Customer,4,144,4,1,2,Anemone Ratner,11492,50
+Normal,4,134,3,1,5,Joni Wasserman,10949,60
+Newest Customer,4,144,4,1,33,Erica Hackney,9481,51
+Normal,2,122,2,1,4,Melanie Seite,16104,70
+Loyal Customer,2,112,1,1,9,Matt Collins,17897,75
+Normal,4,134,3,1,23,Pete Armstrong,10395,56
+Highest Paying Customer,1,121,2,1,8,Craig Leslie,19378,69
+Normal,3,133,3,1,18,Justin Ritter,13625,57
+Highest Paying Customer,1,131,3,1,26,Charles McCrossin,20156,55
+Normal,2,132,3,1,28,Nora Preis,15921,62
+Normal,3,223,2,2,116,Ivan Liston,12853,64
+Newest Customer,3,143,4,1,14,Michelle Huthwaite,12851,50
+Loyal Customer,2,112,1,1,12,Christina DeMoss,17986,82
+Normal,3,133,3,1,51,Chad Cunningham,12522,58
+Normal,3,123,2,1,42,Jim Epp,13952,64
+Newest Customer,3,143,4,1,19,Bradley Drucker,13142,44
+Normal,4,134,3,1,12,Alan Shonely,10692,63
+Best Customer,1,111,1,1,23,Brosina Hoffman,28120,97
+Best Customer,1,111,1,1,13,John Huston,25947,83
+Best Customer,1,111,1,1,16,Mike Pelletier,24216,82
+Best Customer,1,111,1,1,6,Alan Hwang,23641,74
+Newest Customer,4,144,4,1,27,Jeremy Ellison,6818,43
+Newest Customer,4,144,4,1,15,Ionia McGrath,9480,39
+Best Customer,1,111,1,1,32,Joel Eaton,21905,87
+Normal,3,133,3,1,8,Sally Knutson,13292,62
+Normal,3,133,3,1,48,Astrea Jones,13259,60
+Best Customer,1,111,1,1,12,Dario Medina,22297,76
+Normal,2,132,3,1,0,Julia Barnett,17087,57
+Normal,4,134,3,1,34,Brendan Murry,12055,55
+Normal,4,124,2,1,57,Toby Braunhardt,11699,67
+Normal,4,124,2,1,57,Eric Hoffmann,10351,71
+Normal,2,132,3,1,5,Alan Dominguez,18538,55
+Highest Paying Customer,1,131,3,1,2,Vivek Grady,23767,61
+Loyal Customer,2,112,1,1,43,Ruben Ausman,15939,75
+Highest Paying Customer,1,131,3,1,93,Cynthia Arntzen,19834,61
+Best Customer,1,111,1,1,6,Cari MacIntyre,21608,77
+Normal,2,122,2,1,14,Ted Trevino,17245,64
+Normal,3,243,4,2,104,Sally Matthias,13063,54
+Best Customer,1,111,1,1,16,Sean Christensen,20907,76
+Newest Customer,4,144,4,1,12,Larry Hughes,8693,50
+Highest Paying Customer,1,131,3,1,57,Charles Sheldon,20050,62
+Normal,4,124,2,1,23,Lena Cacioppo,11078,66
+Best Customer,1,111,1,1,6,Jamie Frazer,20576,74
+Best Customer,1,111,1,1,18,Tracy Blumstein,20704,91
+Loyal Customer,2,112,1,1,29,Sara Luxemburg,16827,82
+Normal,2,132,3,1,27,Robert Dilbeck,16344,56
+Normal,2,132,3,1,1,Gary McGarr,16518,58
+Normal,3,123,2,1,13,Alejandro Grove,13419,67
+Normal,4,134,3,1,0,Dennis Pardue,11661,57
+Best Customer,1,111,1,1,87,Seth Vernon,23640,85
+Best Customer,1,111,1,1,17,Mitch Webber,23070,74
+Newest Customer,3,143,4,1,27,Cindy Stewart,13432,42
+Highest Paying Customer,1,121,2,1,29,Brian Stugart,22573,71
+Normal,4,134,3,1,19,Roy Skaria,8121,56
+Normal,3,133,3,1,13,Carl Jackson,13972,56
+Best Customer,1,111,1,1,20,Penelope Sewall,30083,82
+Normal,2,122,2,1,5,Alejandro Ballentine,15463,68
+Normal,2,132,3,1,35,Aimee Bixby,16205,55
+Normal,4,134,3,1,50,Cari Schnelling,12179,60
+Loyal Customer,3,113,1,1,36,Jennifer Patt,14212,78
+Best Customer,1,111,1,1,45,Lisa Ryan,18799,78
+Newest Customer,2,142,4,1,30,George Zrebassa,15294,52
+Loyal Customer,4,114,1,1,5,Philip Brown,11386,76
+Newest Customer,4,144,4,1,5,Jill Stevenson,10142,49
+Normal,2,122,2,1,34,Maxwell Schwartz,17928,73
+Newest Customer,4,144,4,1,1,Fred Harton,10766,42
+Highest Paying Customer,1,121,2,1,20,Raymond Buch,29601,71
+Newest Customer,2,142,4,1,58,Nora Paige,15714,48
+Best Customer,1,111,1,1,42,Harold Dahlen,20070,81
+Highest Paying Customer,1,121,2,1,15,Cari Sayre,22067,68
+Normal,3,123,2,1,26,Thomas Seio,14530,68
+Newest Customer,3,143,4,1,6,James Lanier,14847,53
+Normal,3,123,2,1,0,Christine Kargatis,13055,67
+Highest Paying Customer,1,121,2,1,33,Phillina Ober,19099,69
+Normal,3,123,2,1,1,Darren Koutras,14903,64
+Newest Customer,4,144,4,1,35,Don Miller,11836,52
+Best Customer,1,111,1,1,27,Daniel Raglin,27932,85
+Normal,4,134,3,1,14,Lindsay Williams,10982,58
+Normal,3,123,2,1,1,Toby Ritter,12427,65
+Newest Customer,4,144,4,1,35,Arthur Wiediger,11016,49
+Normal,2,122,2,1,0,Liz Preis,16611,71
+Normal,4,134,3,1,28,Victor Preis,12063,58
+Highest Paying Customer,1,121,2,1,26,Lena Radford,22903,65
+Normal,2,122,2,1,7,Jennifer Braxton,15258,73
+Newest Customer,4,144,4,1,19,Evan Bailliet,8006,47
+Highest Paying Customer,1,131,3,1,37,Christopher Martinez,22460,56
+Normal,3,133,3,1,2,Jason Gross,13570,55
+Newest Customer,4,144,4,1,6,Michael Oakman,5464,29
+Normal,3,133,3,1,21,Lena Hernandez,12941,55
+Best Customer,1,111,1,1,2,Adam Hart,21720,84
+Normal,3,123,2,1,19,Katrina Bavinger,14027,68
+Normal,2,222,2,2,127,Michelle Tran,17779,68
+Best Customer,1,111,1,1,7,Michael Moore,21730,78
+Best Customer,1,111,1,1,20,Troy Staebel,22579,83
+Normal,3,123,2,1,75,Speros Goranitis,12948,66
+Newest Customer,2,142,4,1,25,Quincy Jones,18585,53
+Newest Customer,2,142,4,1,22,Barry Weirich,17440,51
+Newest Customer,4,144,4,1,34,Frank Gastineau,9704,44
+Newest Customer,4,144,4,1,35,Karen Seio,5325,43
+Highest Paying Customer,1,121,2,1,5,Nicole Hansen,21304,72
+Normal,4,134,3,1,39,Christina VanderZanden,10327,60
+Normal,3,133,3,1,5,Dorris liebe,14720,58
+Normal,4,124,2,1,16,Craig Carreira,11497,67
+Normal,2,122,2,1,34,Jasper Cacioppo,18443,73
+Normal,3,123,2,1,6,Shui Tom,15006,65
+Highest Paying Customer,1,131,3,1,4,Liz Carlisle,20127,58
+Newest Customer,4,144,4,1,77,Rob Williams,9988,48
+Normal,3,133,3,1,48,Maureen Fritzler,13529,56
+Normal,2,122,2,1,34,Helen Wasserman,18372,66
+Normal,2,122,2,1,14,Deirdre Greer,16715,64
+Normal,2,122,2,1,1,Mitch Gastineau,18010,68
+Best Customer,1,111,1,1,8,Greg Tran,35552,87
+Newest Customer,4,144,4,1,41,Adrian Shami,11287,44
+Newest Customer,3,143,4,1,1,Zuschuss Donatelli,12434,54
+Normal,4,134,3,1,51,Mike Caudle,9355,57
+Normal,3,133,3,1,0,Charlotte Melton,12827,55
+Normal,3,123,2,1,5,Mick Hernandez,13275,67
+Best Customer,1,111,1,1,68,John Murray,22386,79
+Normal,3,133,3,1,9,Cassandra Brandow,13529,59
+Normal,4,124,2,1,37,Cyma Kinney,10596,69
+Normal,2,122,2,1,89,Cathy Hwang,15667,70
+Best Customer,1,111,1,1,25,Tom Boeckenhauer,24480,93
+Normal,4,124,2,1,6,Christine Sundaresam,10546,66
+Loyal Customer,2,112,1,1,30,Anna Häberlin,18093,76
+Loyal Customer,2,112,1,1,3,Dan Reichenbach,16705,84
+Newest Customer,4,144,4,1,51,Harold Ryan,10034,44
+Normal,4,134,3,1,23,Matt Hagelstein,12217,60
+Normal,3,133,3,1,19,Deanra Eno,12799,55
+Normal,3,133,3,1,8,Michael Nguyen,15047,55
+Best Customer,1,111,1,1,1,Joy Bell-,24011,84
+Normal,3,133,3,1,5,Thomas Thornton,15055,63
+Loyal Customer,3,113,1,1,5,Jennifer Halladay,12692,78
+Newest Customer,4,144,4,1,97,Brian Dahlen,9890,48
+Loyal Customer,2,112,1,1,36,Noel Staavos,16643,92
+Newest Customer,4,144,4,1,12,Jesus Ocampo,8209,53
+Best Customer,1,111,1,1,19,Darrin Van Huff,22749,94
+Normal,4,124,2,1,26,Annie Zypern,11871,68
+Best Customer,1,111,1,1,16,Ben Ferrer,23219,86
+Normal,2,122,2,1,5,Sarah Foster,15659,73
+Loyal Customer,3,113,1,1,26,Julie Prescott,14594,76
+Loyal Customer,2,112,1,1,23,Mark Cousins,16548,74
+Normal,3,133,3,1,15,Chuck Magee,13715,58
+Highest Paying Customer,1,131,3,1,7,Mike Vittorini,19572,62
+Best Customer,1,111,1,1,5,Stefania Perrino,19418,78
+Normal,4,134,3,1,9,Shaun Chance,9610,56
+Newest Customer,3,143,4,1,2,Lindsay Castell,14301,50
+Normal,3,133,3,1,5,Neil Ducich,14780,57
+Loyal Customer,2,112,1,1,15,Shirley Daniels,17959,85
+Normal,2,122,2,1,7,Ann Blume,18727,64
+Normal,3,133,3,1,5,Michael Granlund,13185,63
+Best Customer,1,111,1,1,1,Natalie Fritzler,31778,95
+Loyal Customer,3,113,1,1,16,Anthony Witt,15143,78
+Highest Paying Customer,1,121,2,1,6,Susan Pistek,29020,68
+Newest Customer,4,144,4,1,57,Darren Budd,9681,31
+Best Customer,1,111,1,1,2,Eric Murdock,28085,100
+Normal,4,134,3,1,16,Mark Van Huff,11518,57
+Normal,2,222,2,2,120,Rob Lucas,17289,65
+Newest Customer,4,144,4,1,70,Amy Hunt,9202,39
+Loyal Customer,2,112,1,1,2,Paul Gonzalez,15922,92
+Normal,3,133,3,1,0,Maya Herman,13592,62
+Normal,2,132,3,1,1,Max Ludwig,15534,63
+Normal,3,133,3,1,7,Anthony O'Donnell,15025,60
+Normal,3,133,3,1,19,Tamara Willingham,14256,59
+Best Customer,1,111,1,1,23,Arthur Gainer,19871,75
+Newest Customer,3,143,4,1,11,Nicole Fjeld,12268,43
+Best Customer,1,111,1,1,1,Jill Fjeld,23621,78
+Newest Customer,3,143,4,1,12,Duane Benoit,13604,42
+Newest Customer,4,144,4,1,42,Michelle Ellison,10708,49
+Normal,3,123,2,1,19,Richard Bierner,14797,67
+Normal,3,123,2,1,2,Lori Olson,13541,69
+Loyal Customer,3,113,1,1,1,Greg Matthias,13600,74
+Newest Customer,3,143,4,1,61,Jamie Kunitz,12533,50
+Loyal Customer,2,112,1,1,20,Patrick Gardner,16481,78
+Normal,4,124,2,1,93,Erin Ashbrook,11521,72
+Normal,3,123,2,1,1,Greg Hansen,13997,65
+Loyal Customer,2,112,1,1,2,Karl Braun,17494,93
+Normal,2,132,3,1,9,Raymond Messe,18317,62
+Best Customer,1,111,1,1,2,Joel Jenkins,19993,83
+Newest Customer,4,144,4,1,30,Stuart Calhoun,11409,45
+Highest Paying Customer,1,121,2,1,8,Paul Van Hugh,18932,65
+Loyal Customer,3,113,1,1,5,Dorothy Wardle,12606,74
+Normal,3,133,3,1,8,Patrick Bzostek,14858,62
+Newest Customer,3,143,4,1,13,Vicky Freymann,12600,49
+Normal,4,134,3,1,20,Helen Andreada,10414,63
+Newest Customer,4,144,4,1,44,John Lucas,10503,50
+Normal,2,122,2,1,25,Henry MacAllister,17128,64
+Normal,3,133,3,1,8,Eudokia Martin,13723,61
+Normal,2,122,2,1,0,Valerie Dominguez,15987,67
+Loyal Customer,2,112,1,1,28,Erin Smith,18160,74
+Best Customer,1,111,1,1,40,Irene Maddox,19919,82
+Highest Paying Customer,1,141,4,1,2,Mike Gockenbach,23378,51
+Best Customer,1,111,1,1,8,Phillip Breyer,24269,84
+Normal,2,132,3,1,6,Randy Ferguson,16598,63
+Normal,2,132,3,1,13,Hallie Redmond,15680,61
+Loyal Customer,2,112,1,1,1,Anthony Jacobs,17757,79
+Best Customer,1,111,1,1,0,Ken Lonsdale,24127,82
+Normal,3,133,3,1,14,Toby Gnade,13021,63
+Normal,3,243,4,2,175,Shirley Jackson,13385,52
+Highest Paying Customer,1,211,1,2,117,Natalie Webber,22374,79
+Normal,4,134,3,1,1,Pierre Wener,8422,61
+Best Customer,1,111,1,1,35,Bill Eplett,28480,102
+Loyal Customer,3,113,1,1,22,Mike Kennedy,12741,82
+Best Customer,1,111,1,1,36,Denny Ordway,18797,83
+Normal,4,134,3,1,6,Beth Fritzler,10588,58
+Loyal Customer,2,112,1,1,40,Jonathan Howell,16544,81
+Normal,3,133,3,1,15,Parhena Norris,12893,58
+Newest Customer,4,144,4,1,16,Roland Murray,7403,37
+Highest Paying Customer,1,121,2,1,7,Valerie Takahito,19368,72
+Newest Customer,4,144,4,1,48,Sylvia Foulston,9257,47
+Normal,3,133,3,1,1,Bobby Odegard,15029,57
+Normal,2,122,2,1,8,Tom Zandusky,15348,73
+Normal,4,134,3,1,27,Clay Cheatham,9345,60
+Newest Customer,2,142,4,1,51,Gene Hale,15488,50
+Normal,4,124,2,1,13,Jay Fein,10818,64
+Loyal Customer,2,112,1,1,8,Jack Lebron,18673,83
+Newest Customer,4,144,4,1,21,Pauline Chand,10633,48
+Newest Customer,3,143,4,1,54,Sung Pak,13496,52
+Normal,3,133,3,1,13,Alan Barnes,13053,60
+Normal,3,133,3,1,5,Tracy Hopkins,13095,55
+Normal,2,122,2,1,23,Henry Goldwyn,17168,71
+Loyal Customer,3,113,1,1,2,Alex Grayson,15071,77
+Newest Customer,3,143,4,1,28,Carol Triggs,14139,52
+Normal,2,122,2,1,9,Brian Derr,16917,68
+Normal,2,122,2,1,34,Philip Fox,18031,67
+Highest Paying Customer,1,121,2,1,1,Janet Lee,20479,69
+Newest Customer,4,144,4,1,21,Luke Weiss,12051,53
+Highest Paying Customer,1,121,2,1,11,Tony Sayre,19734,66
+Normal,2,122,2,1,7,Claudia Bergmann,18261,72
+Normal,2,132,3,1,16,Corey Catlett,17604,61
+Normal,2,132,3,1,21,Bobby Elias,18411,60
+Normal,3,133,3,1,12,Beth Paige,12827,55
+Normal,2,122,2,1,11,Mick Brown,16451,71
+Best Customer,1,111,1,1,5,Craig Reiter,20848,77
+Newest Customer,4,144,4,1,5,Joni Sundaresam,6809,53
+Newest Customer,4,144,4,1,14,Edward Nazzal,7072,46
+Normal,2,122,2,1,26,Shahid Shariari,18107,67
+Highest Paying Customer,1,121,2,1,3,Brad Eason,18986,69
+Normal,2,122,2,1,12,Emily Phan,16770,72
+Normal,2,132,3,1,43,Heather Kirkland,15541,60
+Newest Customer,3,143,4,1,4,Frank Hawley,13686,48
+Normal,2,132,3,1,22,Dionis Lloyd,16648,56
+Newest Customer,2,142,4,1,12,Jim Radford,15925,48
+Normal,2,132,3,1,10,David Kendrick,17559,58
+Normal,4,124,2,1,28,Beth Thompson,11631,70
+Normal,3,133,3,1,35,Henia Zydlo,12487,57
+Normal,2,122,2,1,19,Pauline Johnson,15845,65
+Highest Paying Customer,1,141,4,1,21,Sean Miller,35170,50
+Highest Paying Customer,1,121,2,1,28,Bill Stewart,18776,66
+Loyal Customer,3,113,1,1,33,Greg Guthrie,13901,75
+Normal,4,124,2,1,49,Brian DeCherney,10772,67
+Best Customer,1,111,1,1,1,Laura Armstrong,27864,86
+Highest Paying Customer,1,121,2,1,28,Barry Gonzalez,20023,67
+Loyal Customer,2,112,1,1,43,Clytie Kelty,17141,79
+Normal,2,122,2,1,14,Nora Pelletier,16358,66
+Newest Customer,4,144,4,1,30,Harold Pawlan,8517,45
+Normal,3,133,3,1,57,Julie Creighton,14996,63
+Normal,4,134,3,1,0,Guy Thornton,9061,62
+Normal,2,122,2,1,43,Thea Hudgings,15353,64
+Best Customer,1,111,1,1,5,Maria Etezadi,26252,84
+Highest Paying Customer,1,131,3,1,19,Katherine Nockton,19669,59
+Highest Paying Customer,1,121,2,1,2,Alan Schoenberger,21837,73
+Loyal Customer,2,112,1,1,8,Jeremy Pistek,18659,74
+Normal,3,123,2,1,30,Trudy Brown,15078,69
+Newest Customer,4,144,4,1,7,Eric Barreto,11967,48
+Normal,3,123,2,1,25,Carlos Soltero,14936,68
+Best Customer,1,111,1,1,40,Sample Company A,19129,90
+Normal,4,124,2,1,11,Max Engle,9924,72
+Newest Customer,4,144,4,1,32,Edward Becker,9428,49
+Newest Customer,4,144,4,1,27,Kean Thornton,8362,45
+Normal,2,122,2,1,5,Heather Jas,15435,68
+Loyal Customer,3,113,1,1,34,Dan Campbell,13439,77
+Normal,4,244,4,2,150,Robert Barroso,6256,45
+Normal,3,133,3,1,22,Frank Atkinson,14350,62
+Normal,4,134,3,1,15,Khloe Miller,10973,61
+Newest Customer,4,144,4,1,49,Thomas Brumley,11805,38
+Newest Customer,2,142,4,1,27,Corinna Mitchell,15580,54
+Best Customer,1,111,1,1,4,Rose O'Brian,21912,79
+Loyal Customer,2,112,1,1,21,Stewart Visinsky,17232,75
+Highest Paying Customer,1,121,2,1,69,Cathy Prescott,19770,65
+Normal,3,133,3,1,12,Duane Noonan,14915,60
+Normal,2,122,2,1,47,Greg Maxwell,15355,64
+Newest Customer,4,144,4,1,0,Shirley Schmidt,7903,36
+Highest Paying Customer,1,131,3,1,1,Maria Bertelson,21607,60
+Newest Customer,4,144,4,1,41,Craig Molinari,11230,54
+Normal,3,133,3,1,14,David Smith,13634,63
+Normal,3,133,3,1,44,Steve Nguyen,13404,61
+Newest Customer,4,144,4,1,5,David Bremer,6275,34
+Loyal Customer,2,112,1,1,0,Maureen Gnade,18326,74
+Best Customer,1,111,1,1,83,Peter Fuller,29876,87
+Loyal Customer,2,112,1,1,37,Janet Molinari,16168,77
+Highest Paying Customer,1,121,2,1,33,Olvera Toch,19759,73
+Loyal Customer,2,112,1,1,4,Bruce Degenhardt,15959,76
+Newest Customer,4,144,4,1,14,Sung Shariari,5331,43
+Normal,4,134,3,1,8,Theresa Swint,7936,63
+Normal,4,134,3,1,20,Rob Beeghly,11549,62
+Normal,2,122,2,1,9,Bryan Spruell,17253,69
+Normal,4,134,3,1,23,Frank Preis,10760,55
+Highest Paying Customer,1,131,3,1,4,Yana Sorensen,20034,62
+Newest Customer,4,144,4,1,12,Sean Wendt,8168,46
+Highest Paying Customer,1,121,2,1,75,Sanjit Chand,26524,69
+Normal,3,133,3,1,16,Susan Gilcrest,12686,58
+Normal,4,134,3,1,27,Sonia Cooley,10012,57
+Normal,4,134,3,1,14,Barry Blumstein,9883,62
+Loyal Customer,3,113,1,1,6,Ann Chong,15027,83
+Newest Customer,4,144,4,1,14,Jas O'Carroll,8819,44
+Normal,2,122,2,1,8,Pete Kriz,18657,73
+Normal,4,134,3,1,4,Jeremy Farry,10722,57
+Loyal Customer,3,113,1,1,2,Chris Selesnick,14418,81
+Best Customer,1,111,1,1,27,Justin Hirsh,23918,81
+Normal,3,133,3,1,26,Neil Knudson,13875,63
+Newest Customer,4,144,4,1,30,Jeremy Lonsdale,11362,48
+Highest Paying Customer,1,121,2,1,12,Grace Kelly,19982,65
+Normal,4,134,3,1,36,Mary O'Rourke,11126,57
+Best Customer,1,111,1,1,4,Patrick O'Brill,26712,102
+Normal,2,122,2,1,28,Russell D'Ascenzo,15819,71
+Highest Paying Customer,1,131,3,1,36,Michael Dominguez,22427,59
+Newest Customer,4,144,4,1,98,Kristina Nunn,10715,46
+Newest Customer,4,144,4,1,37,Susan MacKendrick,8634,41
+Loyal Customer,2,112,1,1,76,Arthur Prichep,18546,87
+Highest Paying Customer,1,131,3,1,33,Kelly Collister,19401,55
+Highest Paying Customer,1,121,2,1,21,Steve Carroll,19823,71
+Highest Paying Customer,1,121,2,1,7,David Philippe,23730,68
+Normal,3,133,3,1,49,Matt Connell,13230,58
+Normal,4,124,2,1,30,Brad Thomas,11683,65
+Normal,3,133,3,1,0,Chuck Clark,15040,60
+Newest Customer,4,144,4,1,14,Jessica Myrick,7789,51
+Best Customer,1,111,1,1,30,Nathan Mautz,24278,75
+Normal,3,133,3,1,90,Sheri Gordon,13818,59
+Loyal Customer,2,112,1,1,2,Katherine Murray,18522,81
+Newest Customer,3,143,4,1,20,Duane Huffman,12477,54
+Best Customer,1,111,1,1,11,Theresa Coyne,22219,84
+Best Customer,1,111,1,1,97,Mathew Reese,21575,76
+Newest Customer,2,142,4,1,55,Cyra Reiten,15657,54
+Normal,3,123,2,1,13,Giulietta Baptist,12570,66
+Normal,3,133,3,1,33,Maris LaWare,15175,60
+Loyal Customer,2,112,1,1,75,Dave Hallsten,16191,83
+Newest Customer,4,144,4,1,19,Nona Balk,10082,51
+Normal,4,134,3,1,53,Erin Creighton,6731,58
+Highest Paying Customer,1,121,2,1,35,Adam Bellavance,20189,68
+Normal,3,133,3,1,6,Alyssa Crouse,12296,61
+Newest Customer,2,142,4,1,5,Amy Cox,17155,39
+Loyal Customer,2,112,1,1,23,Mary Zewe,16577,77
+Best Customer,1,111,1,1,8,Tom Ashbrook,40489,80
+Normal,3,123,2,1,2,Nick Radford,12891,68
+Newest Customer,4,144,4,1,6,Rob Haberlin,7970,47
+Highest Paying Customer,1,121,2,1,8,Dave Brooks,25550,70
+Newest Customer,3,143,4,1,4,Robert Marley,12868,47
+Normal,2,122,2,1,37,Kean Nguyen,18064,66
+Newest Customer,2,142,4,1,18,Debra Catini,16972,54
+Newest Customer,2,142,4,1,28,Denny Blanton,16634,51
+Loyal Customer,4,114,1,1,1,Katherine Hughes,12210,75
+Normal,3,133,3,1,12,Natalie DeCherney,13709,63
+Normal,4,124,2,1,14,Todd Boyes,9647,67
+Normal,3,133,3,1,60,Craig Yedwab,14220,60
+Newest Customer,4,144,4,1,9,David Flashing,11540,52
+Newest Customer,3,143,4,1,36,Roland Schwarz,15108,49
+Normal,2,132,3,1,15,Luke Schmidt,15599,58
+Highest Paying Customer,1,121,2,1,11,Brad Norvell,26200,70
+Loyal Customer,2,112,1,1,1,Ben Peterman,16809,74
+Normal,4,134,3,1,1,Tim Taslimi,9780,55
+Newest Customer,4,144,4,1,44,Eileen Kiefer,7124,36
+Normal,2,122,2,1,97,Julie Kriz,15648,65
+Normal,2,122,2,1,29,Alex Russell,16469,64
+Best Customer,1,111,1,1,18,Dean percer,22833,81
+Highest Paying Customer,1,141,4,1,41,Sean Braxton,20514,53
+Newest Customer,4,144,4,1,22,Clay Rozendal,11759,41
+Normal,2,122,2,1,0,Rick Reed,16382,73
+Normal,3,123,2,1,1,Carol Darley,13232,68
+Highest Paying Customer,1,121,2,1,0,Mitch Willingham,19008,66
+Best Customer,1,111,1,1,8,Becky Martin,27173,78
+Normal,3,123,2,1,25,Patrick Ryan,14330,72
+Highest Paying Customer,1,121,2,1,26,Rick Wilson,25125,68
+Loyal Customer,2,112,1,1,15,Keith Herrera,16890,79
+Best Customer,1,111,1,1,9,Joe Elijah,22452,82
+Newest Customer,4,144,4,1,4,Victoria Brennan,10745,45
+Highest Paying Customer,1,121,2,1,6,Christopher Conant,35187,73
+Normal,2,122,2,1,7,Filia McAdams,17287,69
+Highest Paying Customer,1,121,2,1,16,Scot Coram,22129,64
+Newest Customer,3,143,4,1,2,Kimberly Carter,13923,53
+Best Customer,1,111,1,1,8,Jim Mitchum,19899,84
+Best Customer,1,111,1,1,5,Maribeth Schnelling,21681,79
+Best Customer,1,111,1,1,7,Monica Federle,21944,86
+Normal,3,123,2,1,21,Roy Phan,14610,72
+Highest Paying Customer,1,121,2,1,8,Dave Kipp,19456,64
+Best Customer,1,111,1,1,39,Laurel Beltran,26387,88
+Highest Paying Customer,1,121,2,1,4,Magdelene Morse,21226,66
+Normal,3,123,2,1,26,Lauren Leatherbury,14939,66
+Best Customer,1,111,1,1,5,Clay Ludtke,19784,79
+Normal,3,133,3,1,2,Cindy Schnelling,12775,62
+Best Customer,1,111,1,1,8,Christine Phan,25157,82
+Loyal Customer,2,112,1,1,40,Tony Molinari,15973,80
+Best Customer,1,111,1,1,1,Bruce Stewart,19234,83
+Normal,2,132,3,1,21,Max Jones,16486,60
+Normal,3,123,2,1,76,Cynthia Delaney,14500,68
+Newest Customer,4,144,4,1,19,Jennifer Jackson,12191,41
+Best Customer,1,111,1,1,21,Damala Kotsonis,20961,86
+Normal,4,134,3,1,51,Matt Collister,11674,55
+Best Customer,1,111,1,1,4,Dennis Kane,20103,76
+Highest Paying Customer,1,131,3,1,6,Dave Poirier,25901,62
+Best Customer,1,111,1,1,18,Gary Hwang,24629,102
+Newest Customer,4,144,4,1,13,Christine Abelman,7803,43
+Newest Customer,4,144,4,1,98,Paul Knutson,8232,39
+Newest Customer,4,144,4,1,22,Tanja Norvell,9595,53
+Normal,2,122,2,1,6,Victoria Wilson,17039,66
+Loyal Customer,2,112,1,1,20,Gary Hansen,15269,76
+Newest Customer,3,143,4,1,39,Patrick Jones,14442,45
+Highest Paying Customer,1,131,3,1,18,Carol Adams,23993,57
+Normal,3,123,2,1,26,Katrina Edelman,13553,67
+Best Customer,1,111,1,1,34,Liz Thompson,21217,74
+Newest Customer,3,143,4,1,4,Cynthia Voltz,14857,54
+Newest Customer,3,143,4,1,5,Mark Packer,12987,52
+Newest Customer,4,144,4,1,21,Catherine Glotzbach,4116,35
+Normal,4,244,4,2,104,Gene McClure,11003,47
+Normal,2,122,2,1,0,Fred Wasserman,18194,72
+Best Customer,1,111,1,1,2,Bryan Mills,20689,84
+Normal,3,133,3,1,49,Georgia Rosenberg,13850,62
+Newest Customer,4,144,4,1,8,Sung Chung,11265,46
+Normal,2,132,3,1,29,Maribeth Yedwab,16472,56
+Normal,3,133,3,1,2,Aleksandra Gannaway,14715,58
+Newest Customer,4,144,4,1,11,John Stevenson,12189,42
+Normal,3,133,3,1,18,Brian Thompson,14896,58
+Highest Paying Customer,1,121,2,1,34,Christina Anderson,21835,69
+Highest Paying Customer,1,241,4,2,125,Andrew Allen,19758,48
+Newest Customer,4,144,4,1,7,Brendan Dodson,10920,36
+Normal,2,122,2,1,44,Marc Crier,15988,69
+Loyal Customer,3,113,1,1,21,Roger Demir,14738,77
+Loyal Customer,2,112,1,1,5,Nat Carroll,16613,76
+Newest Customer,4,144,4,1,41,Katherine Ducich,11696,39
+Normal,2,132,3,1,6,Bruce Geld,15381,56
+Newest Customer,4,144,4,1,16,Gary Mitchum,11011,43
+Loyal Customer,2,112,1,1,1,Guy Phonely,15403,74
+Normal,3,133,3,1,23,Aaron Smayling,14207,60
+Normal,4,244,4,2,118,Roy Collins,7956,45
+Normal,2,122,2,1,41,Linda Cazamias,16738,67
+Newest Customer,4,144,4,1,22,Vivek Sundaresam,11413,40
+Highest Paying Customer,1,121,2,1,27,Paul Stevenson,19620,68
+Best Customer,1,111,1,1,6,Don Jones,21395,78
+Newest Customer,4,144,4,1,54,Allen Rosenblatt,9529,50
+Normal,3,123,2,1,23,Shahid Hopkins,12979,68
+Highest Paying Customer,1,121,2,1,12,Toby Carlisle,20126,67
+Normal,3,133,3,1,5,Sonia Sunley,13118,61
+Best Customer,1,111,1,1,25,Rob Dowd,21482,90
+Normal,3,133,3,1,13,Cathy Armstrong,12293,56
+Normal,2,132,3,1,5,Giulietta Dortch,18705,56
+Normal,4,134,3,1,43,Lisa DeCherney,11824,58
+Normal,3,123,2,1,13,Valerie Mitchum,14567,68
+Best Customer,1,111,1,1,8,Juliana Krohn,23136,83
+Best Customer,1,111,1,1,1,Harry Marie,28477,85
